@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    padding: 0px;
+} 
+ div{
+    width: 40%;
+    height: 200px;
+    font-size: 20px;
+}
+.a{
+    background-color: green;
+}
+.b{
+    background-color: aquamarine;
+}
+.c{
+    background-color: blue;
+}
+.d{
+    background-color: brown;
+}
